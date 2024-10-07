@@ -1,0 +1,4 @@
+time,fps,cpums,cms,gms,expectedp,loadedp,shaderp_comp,shaderp_grph, expectedc,shaderc,threadcount, sidelen,density,PERR,CERR
+0,2,0.5,236.682,0.00043024,117649,117648,0,0,57392,0,0,5,0.5,0,0
+1,1,1,236.685,0.00043472,117649,117648,0,0,57392,0,0,5,0.5,0,0
+2,1,1,236.714,0.000437568,117649,117648,0,0,57392,0,0,5,0.5,0,0
