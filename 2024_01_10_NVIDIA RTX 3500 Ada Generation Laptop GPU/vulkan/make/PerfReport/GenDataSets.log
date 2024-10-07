@@ -1,0 +1,5 @@
+Starting AppWorking Directory :J:\FPIBG\vulkan\make\PerfReport
+Configuration fileGenDataSets.cfg not found or syntax error:
+
+EXITING| TYPE:class std::runtime_error MSG:Configuration fileGenDataSets.cfg not found or syntax error:
+

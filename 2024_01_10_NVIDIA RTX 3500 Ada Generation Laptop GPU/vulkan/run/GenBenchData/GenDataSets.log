@@ -1,0 +1,721 @@
+Starting AppWorking Directory :J:\FPIBG\vulkan\run\GenBenchData
+Number of particles:32
+Total Collisions:2
+Total Particles in a cell:4
+Side Length:3
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0000CollisionDataSet32X16X3 Done!
+Counted Particles:32
+Counted Collisions:16
+Counted Sidelength:2
+Number of particles:82944
+Total Collisions:2
+Total Particles in a cell:10368
+Side Length:23
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0001CollisionDataSet82944X41472X23 Done!
+Counted Particles:82944
+Counted Collisions:41472
+Counted Sidelength:22
+Number of particles:115712
+Total Collisions:2
+Total Particles in a cell:14464
+Side Length:26
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0002CollisionDataSet115712X57856X26 Done!
+Counted Particles:115712
+Counted Collisions:57856
+Counted Sidelength:25
+Number of particles:246784
+Total Collisions:2
+Total Particles in a cell:30848
+Side Length:33
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0003CollisionDataSet246784X123392X33 Done!
+Counted Particles:246784
+Counted Collisions:123392
+Counted Sidelength:32
+Number of particles:508928
+Total Collisions:2
+Total Particles in a cell:63616
+Side Length:41
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0004CollisionDataSet508928X254464X41 Done!
+Counted Particles:508928
+Counted Collisions:254464
+Counted Sidelength:40
+Number of particles:754688
+Total Collisions:2
+Total Particles in a cell:94336
+Side Length:47
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0005CollisionDataSet754688X377344X47 Done!
+Counted Particles:754688
+Counted Collisions:377344
+Counted Sidelength:46
+Number of particles:1000448
+Total Collisions:2
+Total Particles in a cell:125056
+Side Length:52
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0006CollisionDataSet1000448X500224X52 Done!
+Counted Particles:1000448
+Counted Collisions:500224
+Counted Sidelength:51
+Number of particles:1246208
+Total Collisions:2
+Total Particles in a cell:155776
+Side Length:55
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0007CollisionDataSet1246208X623104X55 Done!
+Counted Particles:1246208
+Counted Collisions:623104
+Counted Sidelength:54
+Number of particles:1360896
+Total Collisions:2
+Total Particles in a cell:170112
+Side Length:57
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0008CollisionDataSet1360896X680448X57 Done!
+Counted Particles:1360896
+Counted Collisions:680448
+Counted Sidelength:56
+Number of particles:1508352
+Total Collisions:2
+Total Particles in a cell:188544
+Side Length:59
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0009CollisionDataSet1508352X754176X59 Done!
+Counted Particles:1508352
+Counted Collisions:754176
+Counted Sidelength:58
+Number of particles:1623040
+Total Collisions:2
+Total Particles in a cell:202880
+Side Length:60
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0010CollisionDataSet1623040X811520X60 Done!
+Counted Particles:1623040
+Counted Collisions:811520
+Counted Sidelength:59
+Number of particles:1754112
+Total Collisions:2
+Total Particles in a cell:219264
+Side Length:62
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0011CollisionDataSet1754112X877056X62 Done!
+Counted Particles:1754112
+Counted Collisions:877056
+Counted Sidelength:61
+Number of particles:1901568
+Total Collisions:2
+Total Particles in a cell:237696
+Side Length:63
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0012CollisionDataSet1901568X950784X63 Done!
+Counted Particles:1901568
+Counted Collisions:950784
+Counted Sidelength:62
+Number of particles:2016256
+Total Collisions:2
+Total Particles in a cell:252032
+Side Length:65
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0013CollisionDataSet2016256X1008128X65 Done!
+Counted Particles:2016256
+Counted Collisions:1008128
+Counted Sidelength:64
+Number of particles:2163712
+Total Collisions:2
+Total Particles in a cell:270464
+Side Length:66
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0014CollisionDataSet2163712X1081856X66 Done!
+Counted Particles:2163712
+Counted Collisions:1081856
+Counted Sidelength:65
+Number of particles:2343936
+Total Collisions:2
+Total Particles in a cell:292992
+Side Length:68
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0015CollisionDataSet2343936X1171968X68 Done!
+Counted Particles:2343936
+Counted Collisions:1171968
+Counted Sidelength:67
+Number of particles:2540544
+Total Collisions:2
+Total Particles in a cell:317568
+Side Length:70
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0016CollisionDataSet2540544X1270272X70 Done!
+Counted Particles:2540544
+Counted Collisions:1270272
+Counted Sidelength:69
+Number of particles:2638848
+Total Collisions:2
+Total Particles in a cell:329856
+Side Length:71
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0017CollisionDataSet2638848X1319424X71 Done!
+Counted Particles:2638848
+Counted Collisions:1319424
+Counted Sidelength:70
+Number of particles:2753536
+Total Collisions:2
+Total Particles in a cell:344192
+Side Length:72
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0018CollisionDataSet2753536X1376768X72 Done!
+Counted Particles:2753536
+Counted Collisions:1376768
+Counted Sidelength:71
+Number of particles:2900992
+Total Collisions:2
+Total Particles in a cell:362624
+Side Length:73
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0019CollisionDataSet2900992X1450496X73 Done!
+Counted Particles:2900992
+Counted Collisions:1450496
+Counted Sidelength:72
+Number of particles:3015680
+Total Collisions:2
+Total Particles in a cell:376960
+Side Length:74
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0020CollisionDataSet3015680X1507840X74 Done!
+Counted Particles:3015680
+Counted Collisions:1507840
+Counted Sidelength:73
+Number of particles:3130368
+Total Collisions:2
+Total Particles in a cell:391296
+Side Length:75
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0021CollisionDataSet3130368X1565184X75 Done!
+Counted Particles:3130368
+Counted Collisions:1565184
+Counted Sidelength:74
+Number of particles:3245056
+Total Collisions:2
+Total Particles in a cell:405632
+Side Length:76
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0022CollisionDataSet3245056X1622528X76 Done!
+Counted Particles:3245056
+Counted Collisions:1622528
+Counted Sidelength:75
+Number of particles:3359744
+Total Collisions:2
+Total Particles in a cell:419968
+Side Length:76
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0023CollisionDataSet3359744X1679872X76 Done!
+Counted Particles:3359744
+Counted Collisions:1679872
+Counted Sidelength:75
+Number of particles:3507200
+Total Collisions:2
+Total Particles in a cell:438400
+Side Length:77
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0024CollisionDataSet3507200X1753600X77 Done!
+Counted Particles:3507200
+Counted Collisions:1753600
+Counted Sidelength:76
+Number of particles:3621888
+Total Collisions:2
+Total Particles in a cell:452736
+Side Length:78
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0025CollisionDataSet3621888X1810944X78 Done!
+Counted Particles:3621888
+Counted Collisions:1810944
+Counted Sidelength:77
+Number of particles:3752960
+Total Collisions:2
+Total Particles in a cell:469120
+Side Length:79
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0026CollisionDataSet3752960X1876480X79 Done!
+Counted Particles:3752960
+Counted Collisions:1876480
+Counted Sidelength:78
+Number of particles:3867648
+Total Collisions:2
+Total Particles in a cell:483456
+Side Length:80
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0027CollisionDataSet3867648X1933824X80 Done!
+Counted Particles:3867648
+Counted Collisions:1933824
+Counted Sidelength:79
+Number of particles:4015104
+Total Collisions:2
+Total Particles in a cell:501888
+Side Length:81
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0028CollisionDataSet4015104X2007552X81 Done!
+Counted Particles:4015104
+Counted Collisions:2007552
+Counted Sidelength:80
+Number of particles:4129792
+Total Collisions:2
+Total Particles in a cell:516224
+Side Length:82
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0029CollisionDataSet4129792X2064896X82 Done!
+Counted Particles:4129792
+Counted Collisions:2064896
+Counted Sidelength:81
+Number of particles:4260864
+Total Collisions:2
+Total Particles in a cell:532608
+Side Length:83
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0030CollisionDataSet4260864X2130432X83 Done!
+Counted Particles:4260864
+Counted Collisions:2130432
+Counted Sidelength:82
+Number of particles:4375552
+Total Collisions:2
+Total Particles in a cell:546944
+Side Length:83
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0031CollisionDataSet4375552X2187776X83 Done!
+Counted Particles:4375552
+Counted Collisions:2187776
+Counted Sidelength:82
+Number of particles:443392
+Total Collisions:0
+Total Particles in a cell:6928
+Side Length:21
+Total Collsion Density:0
+Collsion Density per cell:0
+For File:0000CollisionDataSet443392X0X21 Done!
+Counted Particles:443392
+Counted Collisions:0
+Counted Sidelength:20
+Number of particles:443392
+Total Collisions:2
+Total Particles in a cell:6928
+Side Length:21
+Total Collsion Density:0.05
+Collsion Density per cell:2
+For File:0001CollisionDataSet443392X27712X21 Done!
+Counted Particles:443392
+Counted Collisions:27712
+Counted Sidelength:20
+Number of particles:443392
+Total Collisions:4
+Total Particles in a cell:6928
+Side Length:21
+Total Collsion Density:0.1
+Collsion Density per cell:4
+For File:0002CollisionDataSet443392X55424X21 Done!
+Counted Particles:443392
+Counted Collisions:55424
+Counted Sidelength:20
+Number of particles:443392
+Total Collisions:5
+Total Particles in a cell:6928
+Side Length:21
+Total Collsion Density:0.15
+Collsion Density per cell:5
+For File:0003CollisionDataSet443392X69280X21 Done!
+Counted Particles:443392
+Counted Collisions:69280
+Counted Sidelength:20
+Number of particles:443392
+Total Collisions:7
+Total Particles in a cell:6928
+Side Length:21
+Total Collsion Density:0.2
+Collsion Density per cell:7
+For File:0004CollisionDataSet443392X96992X21 Done!
+Counted Particles:443392
+Counted Collisions:96992
+Counted Sidelength:20
+Number of particles:443392
+Total Collisions:8
+Total Particles in a cell:6928
+Side Length:21
+Total Collsion Density:0.25
+Collsion Density per cell:8
+For File:0005CollisionDataSet443392X110848X21 Done!
+Counted Particles:443392
+Counted Collisions:110848
+Counted Sidelength:20
+Number of particles:443392
+Total Collisions:10
+Total Particles in a cell:6928
+Side Length:21
+Total Collsion Density:0.3
+Collsion Density per cell:10
+For File:0006CollisionDataSet443392X138560X21 Done!
+Counted Particles:443392
+Counted Collisions:138560
+Counted Sidelength:20
+Number of particles:443392
+Total Collisions:12
+Total Particles in a cell:6928
+Side Length:21
+Total Collsion Density:0.35
+Collsion Density per cell:12
+For File:0007CollisionDataSet443392X166272X21 Done!
+Counted Particles:443392
+Counted Collisions:166272
+Counted Sidelength:20
+Number of particles:443392
+Total Collisions:13
+Total Particles in a cell:6928
+Side Length:21
+Total Collsion Density:0.4
+Collsion Density per cell:13
+For File:0008CollisionDataSet443392X180128X21 Done!
+Counted Particles:443392
+Counted Collisions:180128
+Counted Sidelength:20
+Number of particles:443392
+Total Collisions:15
+Total Particles in a cell:6928
+Side Length:21
+Total Collsion Density:0.45
+Collsion Density per cell:15
+For File:0009CollisionDataSet443392X207840X21 Done!
+Counted Particles:443392
+Counted Collisions:207840
+Counted Sidelength:20
+Number of particles:443392
+Total Collisions:16
+Total Particles in a cell:6928
+Side Length:21
+Total Collsion Density:0.5
+Collsion Density per cell:16
+For File:0010CollisionDataSet443392X221696X21 Done!
+Counted Particles:443392
+Counted Collisions:221696
+Counted Sidelength:20
+Number of particles:443392
+Total Collisions:18
+Total Particles in a cell:6928
+Side Length:21
+Total Collsion Density:0.55
+Collsion Density per cell:18
+For File:0011CollisionDataSet443392X249408X21 Done!
+Counted Particles:443392
+Counted Collisions:249408
+Counted Sidelength:20
+Number of particles:443392
+Total Collisions:20
+Total Particles in a cell:6928
+Side Length:21
+Total Collsion Density:0.6
+Collsion Density per cell:20
+For File:0012CollisionDataSet443392X277120X21 Done!
+Counted Particles:443392
+Counted Collisions:277120
+Counted Sidelength:20
+Number of particles:443392
+Total Collisions:21
+Total Particles in a cell:6928
+Side Length:21
+Total Collsion Density:0.65
+Collsion Density per cell:21
+For File:0013CollisionDataSet443392X290976X21 Done!
+Counted Particles:443392
+Counted Collisions:290976
+Counted Sidelength:20
+Number of particles:443392
+Total Collisions:23
+Total Particles in a cell:6928
+Side Length:21
+Total Collsion Density:0.7
+Collsion Density per cell:23
+For File:0014CollisionDataSet443392X318688X21 Done!
+Counted Particles:443392
+Counted Collisions:318688
+Counted Sidelength:20
+Number of particles:443392
+Total Collisions:24
+Total Particles in a cell:6928
+Side Length:21
+Total Collsion Density:0.75
+Collsion Density per cell:24
+For File:0015CollisionDataSet443392X332544X21 Done!
+Counted Particles:443392
+Counted Collisions:332544
+Counted Sidelength:20
+Number of particles:443392
+Total Collisions:26
+Total Particles in a cell:6928
+Side Length:21
+Total Collsion Density:0.8
+Collsion Density per cell:26
+For File:0016CollisionDataSet443392X360256X21 Done!
+Counted Particles:443392
+Counted Collisions:360256
+Counted Sidelength:20
+Number of particles:443392
+Total Collisions:28
+Total Particles in a cell:6928
+Side Length:21
+Total Collsion Density:0.85
+Collsion Density per cell:28
+For File:0017CollisionDataSet443392X387968X21 Done!
+Counted Particles:443392
+Counted Collisions:387968
+Counted Sidelength:20
+Number of particles:443392
+Total Collisions:29
+Total Particles in a cell:6928
+Side Length:21
+Total Collsion Density:0.9
+Collsion Density per cell:29
+For File:0018CollisionDataSet443392X401824X21 Done!
+Counted Particles:443392
+Counted Collisions:401824
+Counted Sidelength:20
+Number of particles:443392
+Total Collisions:31
+Total Particles in a cell:6928
+Side Length:21
+Total Collsion Density:0.95
+Collsion Density per cell:31
+For File:0019CollisionDataSet443392X429536X21 Done!
+Counted Particles:443392
+Counted Collisions:429536
+Counted Sidelength:20
+Number of particles:443392
+Total Collisions:32
+Total Particles in a cell:6928
+Side Length:21
+Total Collsion Density:1
+Collsion Density per cell:32
+For File:0020CollisionDataSet443392X443392X21 Done!
+Counted Particles:443392
+Counted Collisions:443392
+Counted Sidelength:20
+Number of particles:117648
+Total Collisions:2
+Total Particles in a cell:14706
+Side Length:26
+Total Collsion Density:0.5
+Collsion Density per cell:2
+For File:0000CollisionDataSet117648X58824X26 Done!
+Counted Particles:117648
+Counted Collisions:58824
+Counted Sidelength:25
+Number of particles:117648
+Total Collisions:7
+Total Particles in a cell:4357
+Side Length:18
+Total Collsion Density:0.5
+Collsion Density per cell:7
+For File:0001CollisionDataSet117648X60998X18 Done!
+Counted Particles:117649
+Counted Collisions:60998
+Counted Sidelength:17
+Number of particles:117648
+Total Collisions:16
+Total Particles in a cell:1838
+Side Length:14
+Total Collsion Density:0.5
+Collsion Density per cell:16
+For File:0002CollisionDataSet117648X58816X14 Done!
+Counted Particles:117649
+Counted Collisions:58816
+Counted Sidelength:13
+Number of particles:117648
+Total Collisions:32
+Total Particles in a cell:941
+Side Length:11
+Total Collsion Density:0.5
+Collsion Density per cell:32
+For File:0003CollisionDataSet117648X60224X11 Done!
+Counted Particles:117649
+Counted Collisions:60224
+Counted Sidelength:10
+Number of particles:117648
+Total Collisions:54
+Total Particles in a cell:544
+Side Length:10
+Total Collsion Density:0.5
+Collsion Density per cell:54
+For File:0004CollisionDataSet117648X58752X10 Done!
+Counted Particles:117649
+Counted Collisions:58752
+Counted Sidelength:9
+Number of particles:117648
+Total Collisions:86
+Total Particles in a cell:342
+Side Length:8
+Total Collsion Density:0.5
+Collsion Density per cell:86
+For File:0005CollisionDataSet117648X58824X8 Done!
+Counted Particles:117649
+Counted Collisions:58824
+Counted Sidelength:7
+Number of particles:117648
+Total Collisions:183
+Total Particles in a cell:161
+Side Length:7
+Total Collsion Density:0.5
+Collsion Density per cell:183
+For File:0006CollisionDataSet117648X58926X7 Done!
+Counted Particles:117649
+Counted Collisions:58926
+Counted Sidelength:6
+Number of particles:117648
+Total Collisions:333
+Total Particles in a cell:88
+Side Length:6
+Total Collsion Density:0.5
+Collsion Density per cell:333
+For File:0007CollisionDataSet117648X58608X6 Done!
+Counted Particles:117649
+Counted Collisions:58608
+Counted Sidelength:5
+Number of particles:117648
+Total Collisions:844
+Total Particles in a cell:34
+Side Length:5
+Total Collsion Density:0.5
+Collsion Density per cell:844
+For File:0008CollisionDataSet117648X57392X5 Done!
+Counted Particles:117649
+Counted Collisions:57392
+Counted Sidelength:4
+Number of particles:117648
+Total Collisions:3042
+Total Particles in a cell:9
+Side Length:4
+Total Collsion Density:0.5
+Collsion Density per cell:3042
+For File:0009CollisionDataSet117648X54756X4 Done!
+Counted Particles:117649
+Counted Collisions:54756
+Counted Sidelength:3
+Number of particles:117648
+Total Collisions:24334
+Total Particles in a cell:1
+Side Length:3
+Total Collsion Density:0.5
+Collsion Density per cell:24334
+For File:0010CollisionDataSet117648X48668X3 Done!
+Counted Particles:117649
+Counted Collisions:48668
+Counted Sidelength:2
+Processing:../../../../FPIBGDATA/perfdataDUP/0000CollisionDataSet3X3X6.bin
+Counted Particles:3 Required Particles:3
+Counted Collisions:3 Required Collisions:3
+For File:0000CollisionDataSet3X3X6 Done!
+Counted Particles:3
+Counted Collisions:3
+Counted Sidelength:3
+Collision From:0 To:1
+Collision From:0 To:2
+Collision From:1 To:0
+Collision From:2 To:0
+Collisons Verification:4 Of :3 Particles, Colocated:0 SideLen:6 Radius:0.2 Duration:4.17e-05 s
+Processing:../../../../FPIBGDATA/perfdataDUP/0001CollisionDataSet6X6X12.bin
+Counted Particles:6 Required Particles:6
+Counted Collisions:6 Required Collisions:6
+For File:0001CollisionDataSet6X6X12 Done!
+Counted Particles:6
+Counted Collisions:6
+Counted Sidelength:6
+Collision From:0 To:1
+Collision From:0 To:2
+Collision From:1 To:0
+Collision From:2 To:0
+Collision From:2 To:4
+Collision From:3 To:4
+Collision From:3 To:5
+Collision From:4 To:2
+Collision From:4 To:3
+Collision From:5 To:3
+Collisons Verification:10 Of :6 Particles, Colocated:0 SideLen:12 Radius:0.2 Duration:8.72e-05 s
+Processing:../../../../FPIBGDATA/perfdataDUP/0002CollisionDataSet9X9X21.bin
+Counted Particles:9 Required Particles:9
+Counted Collisions:9 Required Collisions:9
+For File:0002CollisionDataSet9X9X21 Done!
+Counted Particles:9
+Counted Collisions:9
+Counted Sidelength:10
+Collision From:0 To:1
+Collision From:0 To:2
+Collision From:1 To:0
+Collision From:2 To:0
+Collision From:2 To:4
+Collision From:3 To:4
+Collision From:3 To:5
+Collision From:4 To:2
+Collision From:4 To:3
+Collision From:5 To:3
+Collision From:6 To:7
+Collision From:6 To:8
+Collision From:7 To:6
+Collision From:8 To:6
+Collisons Verification:14 Of :9 Particles, Colocated:0 SideLen:21 Radius:0.2 Duration:0.0001248 s
+Processing:../../../../FPIBGDATA/perfdataDUP/0003CollisionDataSet12X12X30.bin
+Counted Particles:12 Required Particles:12
+Counted Collisions:12 Required Collisions:12
+For File:0003CollisionDataSet12X12X30 Done!
+Counted Particles:12
+Counted Collisions:12
+Counted Sidelength:15
+Collision From:0 To:1
+Collision From:0 To:2
+Collision From:1 To:0
+Collision From:2 To:0
+Collision From:2 To:4
+Collision From:3 To:4
+Collision From:3 To:5
+Collision From:4 To:2
+Collision From:4 To:3
+Collision From:5 To:3
+Collision From:6 To:7
+Collision From:6 To:8
+Collision From:7 To:6
+Collision From:7 To:11
+Collision From:8 To:6
+Collision From:9 To:10
+Collision From:9 To:11
+Collision From:10 To:9
+Collision From:11 To:7
+Collision From:11 To:9
+Collisons Verification:20 Of :12 Particles, Colocated:0 SideLen:30 Radius:0.2 Duration:0.000239 s
